@@ -1,5 +1,5 @@
 {
-	"name": "getting-started-sanity-sveltekit1",
+	"name": "sveltekit-sanity",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -13,5 +13,8 @@
 		"svelte": "^3.54.0",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@sanity/client": "^3.4.1"
+	}
 }

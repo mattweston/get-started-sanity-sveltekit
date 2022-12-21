@@ -1,5 +1,6 @@
+
 <header>
-  <h1>Sanity + SvelteKit</h1>
+  <h1>SvelteKit Sanity</h1>
 </header>
 <main>
   <h2>Pets</h2>
@@ -25,6 +26,7 @@
 </main>
 
 <script>
+ 
   let pets = [
     /* {
     _createdAt: "2022-03-08T09:28:00Z",
@@ -35,4 +37,5 @@
     name: "Capybara"
   } */
   ];
+
 </script>
